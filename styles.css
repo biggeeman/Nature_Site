@@ -319,17 +319,19 @@ padding: 70px 25px 0;
 }
 
 h1 {
-font-size: 4rem;/* 64 /16 = em value, and a rem vale being relative to 16px of a standard html file   */
+font-size: 4.5rem;/* 64 /16 = em value, and a rem vale being relative to 16px of a standard html file   */
 text-transform: uppercase;
 font-family: "abolition regular", Arial, Helvetica, sans-serif;
 font-weight: normal;
-line-height: 1.3;
+line-height: 1.0;
 text-shadow: 3px 5px 10px black; /* can google loads of 3d texts etc*/
+text-align: center;
+
 }
 
 .title {
 font-size: 1.3rem;
-padding-top: 90px;
+padding-top: 50px;
 }
 
 .callout {
